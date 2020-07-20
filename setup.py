@@ -8,7 +8,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
     README = f.read()
 
 setup(name='ipadic', 
-      version='1.0.0a2',
+      version='1.0.0',
       author="Paul O'Leary McCann",
       author_email="polm@dampfkraft.com",
       description="IPAdic packaged for Python",
@@ -18,7 +18,6 @@ setup(name='ipadic',
       packages=setuptools.find_packages(),
       classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Natural Language :: Japanese",
       ],
