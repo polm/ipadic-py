@@ -11,7 +11,7 @@ at least 2007. The organization that created it no longer does this kind of
 work. The contact URLs listed in the source no longer resolve. It doesn't
 contain important recent terms like 令和, the current era name.
 
-Instead you should use [Unidic](https://unidic.ninjal.ac.jp/), which is
+Instead you should use [Unidic](https://ccd.ninjal.ac.jp/unidic/), which is
 maintained by NINJAL. 
 
 This package is provided for compatability with old benchmarks or models.
